@@ -59,8 +59,8 @@ endif;
  *
  */
 function wens_column_stylesheet() {
-    $my_style_url = WP_PLUGIN_URL . '/wens-responsive-column-shortcodes/wen-style.css';
-    $my_style_file = WP_PLUGIN_DIR . '/wens-responsive-column-shortcodes/wen-style.css';
+    $my_style_url = WP_PLUGIN_URL . '/wens-responsive-column-layout-shortcodes/wen-style.css';
+    $my_style_file = WP_PLUGIN_DIR . '/wens-responsive-column-layout-shortcodes/wen-style.css';
 
     if ( file_exists($my_style_file) ) {
         wp_register_style('column-styles', $my_style_url);
