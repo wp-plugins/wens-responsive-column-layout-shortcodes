@@ -4,48 +4,57 @@
  * Designed and built with all responsive fluid layout 
  */
 /*CSs for Fluid Columns by Web Experts Nepal / Bhuwan Roka*/
-.one_half{ 
-	width:48%; 
+.one_half, .one_half_last{ 
+	width:48%;
+	float: left; 
 }
-.one_third{ 
+.one_third, .one_third_last{ 
 	width:30.66%; 
+	float: left;
 }
-.two_third{ 
+.two_third, .two_third_last{ 
 	width:65.33%; 
+	float: left;
 }
-.one_fourth{ 
-	width:22%; 
+.one_fourth, .one_fourth_last{ 
+	width:22%;
+	float: left; 
 }
-.three_fourth{ 
-	width:74%; 
+.three_fourth, .three_fourth_last{ 
+	width:74%;
+	float:left;
+
 }
-.one_fifth{ 
-	width:16.8%; 
+.one_fifth, .one_fifth_last{ 
+	width:16.8%;
+	float: left; 
 }
-.two_fifth{ 
-	width:37.6%; 
+.two_fifth, .two_fifth_last{ 
+	width:37.6%;
+	float: left; 
 }
-.three_fifth{ 
+.three_fifth, .three_fifth_last{ 
 	width:58.4%; 
+	float: left;
 }
-.four_fifth{ 
+.four_fifth, .four_fifth_last{ 
 	width:67.2%; 
+	float: left;
 }
-.one_sixth{ 
-	width:13.33%; 
+.one_sixth, .one_sixth_last{ 
+	width:13.33%;
+	float: left; 
 }
-.five_sixth{ 
+.five_sixth, .five_sixth_last{ 
 	width:82.67%; 
-}
-.one_seventh{
-	width:14.28%; 
+	float: left;
 }
 .row-fluid.show-grid{
 	margin-bottom: 20px;
 }
 .one_half,.one_third,.two_third,.three_fourth,.one_fourth,.one_fifth,.two_fifth,.three_fifth,.four_fifth,.one_sixth,.five_sixth, 
 	.one_seventh{ position:relative; margin-right:4%; float:left; }
-.last{ margin-right:0 !important; clear:right; }
+.one_half_last{ margin-right:0 !important; clear:right; }
 .clearboth {clear:both;display:block;font-size:0;height:0;line-height:0;width:100%; margin-bottom: 18px;}
 
 /* =Fully Responsive Ready Structure by Bhuwan Roka
