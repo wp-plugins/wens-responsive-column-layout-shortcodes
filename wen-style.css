@@ -59,7 +59,7 @@
 /* =Fully Responsive Ready Structure by Bhuwan Roka
 #Landscape phones and down#  */
 @media only screen and (max-width: 479px) {
-.one_half,.one_third,.two_third,.three_fourth,.one_fourth,.one_fifth,.two_fifth,.three_fifth,.four_fifth,.one_sixth,.five_sixth, .one_half_last, .one_third_last, .two_third_last, .one_fourth_last, .three_fourth_last, ..one_fifth_last, .three_fourth_last, .one_fifth_last, .two_fifth_last, .three_fifth_last, .one_sixth_last, .five_sixth_last{
+.one_half,.one_third,.two_third,.three_fourth,.one_fourth,.one_fifth,.two_fifth,.three_fifth,.four_fifth,.one_sixth,.five_sixth, .one_half_last, .one_third_last, .two_third_last, .one_fourth_last, .three_fourth_last, .one_fifth_last, .three_fourth_last, .one_fifth_last, .two_fifth_last, .three_fifth_last, .one_sixth_last, .five_sixth_last{
 	width: 100%;
 	margin-bottom: 15px;
 }
