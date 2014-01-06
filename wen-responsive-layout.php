@@ -77,6 +77,7 @@ function wen_bs_columns( $atts, $content=null ){
   extract(shortcode_atts(array(
     'class' 	=> 'span1'
     ), $atts));
+      $result ='';
   	  $result .= '<div class="'.$class.'">';
 	  $result .= do_shortcode( $content );
 	  $result .= '</div>';
