@@ -64,6 +64,9 @@ Yes, you can style it with CSS from your theme stylesheet
 2. Responsive column layout (frontend)
 
 == Changelog ==
+= 1.2 =
+Few bugs resolved
+version works smoothly on WordPress 3.9
 
 = 1.1 =
 Bug fixes
