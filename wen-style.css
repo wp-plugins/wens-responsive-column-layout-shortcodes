@@ -58,6 +58,9 @@
 .one_half_last, .one_third_last, .one_fourth_last, .one_fifth_last{
 	min-height: 70px;
 }
+.clear{
+	clear: both;
+}
 /* =Fully Responsive Ready Structure by Bhuwan Roka
 #Landscape phones and down#  */
 @media only screen and (max-width: 500px) {
