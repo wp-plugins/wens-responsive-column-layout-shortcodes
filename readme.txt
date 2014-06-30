@@ -68,7 +68,7 @@ Yes, you can style it with CSS from your theme stylesheet
 Release new version and added clear div after the last column
 
 = 1.2.1 =
-CSS added to clear the last columns of the layout
+CSS added to fix some minro issues
 
 = 1.2 =
 Few bugs resolved
