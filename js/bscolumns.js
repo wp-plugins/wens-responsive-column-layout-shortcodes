@@ -25,7 +25,9 @@
                             case 2:
                                 // shortcode = '<div class="row-fluid show-grid">';
                                     shortcode = '[bscolumns class="one_half"]Your Content Goes here[/bscolumns]';
-                                    shortcode += '[bscolumns class="one_half_last"]Your Content Goes here[/bscolumns]';
+
+                                    shortcode += '[bscolumns class="one_half_last_clear"]Your Content Goes here[/bscolumns]';
+                                    shortcode += '[bscolumns class="clear"][/bscolumns]';
                                 // shortcode += '</div>';
                                 break;
                             case 3:
@@ -33,6 +35,7 @@
                                     shortcode = '[bscolumns class="one_third"]Your Content Goes here[/bscolumns]';
                                     shortcode += '[bscolumns class="one_third"]Your Content Goes here[/bscolumns]';
                                     shortcode += '[bscolumns class="one_third_last"]Your Content Goes here[/bscolumns]';
+                                    shortcode += '[bscolumns class="clear"][/bscolumns]';
                                 // shortcode += '</div>';
                                 break;
                             case 4:
@@ -41,6 +44,7 @@
                                     shortcode += '[bscolumns class="one_fourth"]Your Content Goes here[/bscolumns]';
                                     shortcode += '[bscolumns class="one_fourth"]Your Content Goes here[/bscolumns]';
                                     shortcode += '[bscolumns class="one_fourth_last"]Your Content Goes here[/bscolumns]';
+                                    shortcode += '[bscolumns class="clear"][/bscolumns]';
                                 // shortcode += '</div>';
                                 break;
                             case 5:
@@ -50,6 +54,7 @@
                                     shortcode += '[bscolumns class="one_fifth"]Your Content Goes here[/bscolumns]';
                                     shortcode += '[bscolumns class="one_fifth"]Your Content Goes here[/bscolumns]';
                                     shortcode += '[bscolumns class="one_fifth_last"]Your Content Goes here[/bscolumns]';
+                                    shortcode += '[bscolumns class="clear"][/bscolumns]';
                                 // shortcode += '</div>';
                                 break;
                             case 6:
@@ -60,6 +65,7 @@
                                     shortcode += '[bscolumns class="one_sixth"]Your Content Goes here[/bscolumns]';
                                     shortcode += '[bscolumns class="one_sixth"]Your Content Goes here[/bscolumns]';
                                     shortcode += '[bscolumns class="one_sixth_last"]Your Content Goes here[/bscolumns]';
+                                    shortcode += '[bscolumns class="clear"][/bscolumns]';
                                 // shortcode += '</div>';
                                 break;                            
                             default:
