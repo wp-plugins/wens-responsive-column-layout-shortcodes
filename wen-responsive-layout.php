@@ -3,7 +3,7 @@
 Plugin Name: WEN's Responsive Column Layout Shortcodes
 Plugin URI: http://wordpress.org/plugins/wens-responsive-column-shortcodes/
 Description:  WEN's Responsive Column Layout Shortcodes easily add shortcodes to create 2, 3, 4, 5, 6, columns along with responsive layout in your posts/pages or widget section.
-Version: 1.2.1
+Version: 1.2.2
 Author: Web Experts Nepal, Bhuwan Roka
 Author URI: http://webexpertsnepal.com
 License: GPL2
