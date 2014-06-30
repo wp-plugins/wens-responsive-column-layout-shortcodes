@@ -4,7 +4,7 @@ Tags: column, fluid layout, shortcode, responsive columns, one_half, one_third, 
 Stable tag: 1.2.2
 Requires at least: 3.0
 Tested up to: 3.9
-Donate link: http://bhu1roka.com
+Donate link: http://bhu1roka.com/contact-me
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
