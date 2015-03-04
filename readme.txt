@@ -1,9 +1,9 @@
 ﻿=== WEN's Responsive Column Layout Shortcodes ===
-Contributors: webexpertsnepal, bhuwanroka
+Contributors: bhuwanroka
 Tags: column, fluid layout, shortcode, responsive columns, one_half, one_third, one_fourth, one_fifth, one_six, Responsive design, CSS3, row, rows, grid, grid base, fit one responsive, bootstrap grid, layout flexible, column shortcode, wpcolumn, pagecolumn, wordpress layout shortcode, sidebar, sidebars, Style, theme, flexible layout, widget, widgets, css3, media
-Stable tag: 1.2.3
+Stable tag: 1.2.4
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.1
 Donate link: http://bhu1roka.com/contact-me
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
