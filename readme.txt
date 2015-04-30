@@ -1,9 +1,9 @@
 ﻿=== WEN's Responsive Column Layout Shortcodes ===
 Contributors: bhuwanroka
 Tags: column, fluid layout, shortcode, responsive columns, one_half, one_third, one_fourth, one_fifth, one_six, Responsive design, CSS3, row, rows, grid, grid base, fit one responsive, bootstrap grid, layout flexible, column shortcode, wpcolumn, pagecolumn, wordpress layout shortcode, sidebar, sidebars, Style, theme, flexible layout, widget, widgets, css3, media
-Stable tag: 1.2.4
+Stable tag: 1.2.5
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Donate link: http://bhu1roka.com/contact-me
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -64,6 +64,10 @@ Yes, you can style it with CSS from your theme stylesheet
 2. Responsive column layout (frontend)
 
 == Changelog ==
+
+= 1.2.5 =
+Made Wordpress 4.2 compatible
+
 = 1.2.2 =
 Release new version and added clear div after the last column
 
